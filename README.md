@@ -1,28 +1,46 @@
 # Hi, I'm Pratiksha (Prat) Shenoy
 
 <pre>
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+          _____                   _______                   _____            _____          
+         /\    \                 /::\    \                 /\    \          /\    \         
+        /::\____\               /::::\    \               /::\____\        /::\    \        
+       /:::/    /              /::::::\    \             /:::/    /       /::::\    \       
+      /:::/    /              /::::::::\    \           /:::/    /       /::::::\    \      
+     /:::/    /              /:::/~~\:::\    \         /:::/    /       /:::/\:::\    \     
+    /:::/____/              /:::/    \:::\    \       /:::/    /       /:::/__\:::\    \    
+   /::::\    \             /:::/    / \:::\    \     /:::/    /       /::::\   \:::\    \   
+  /::::::\    \   _____   /:::/____/   \:::\____\   /:::/    /       /::::::\   \:::\    \  
+ /:::/\:::\    \ /\    \ |:::|    |     |:::|    | /:::/    /       /:::/\:::\   \:::\    \ 
+/:::/  \:::\    /::\____\|:::|____|     |:::|    |/:::/____/       /:::/  \:::\   \:::\____\
+\::/    \:::\  /:::/    / \:::\    \   /:::/    / \:::\    \       \::/    \:::\  /:::/    /
+ \/____/ \:::\/:::/    /   \:::\    \ /:::/    /   \:::\    \       \/____/ \:::\/:::/    / 
+          \::::::/    /     \:::\    /:::/    /     \:::\    \               \::::::/    /  
+           \::::/    /       \:::\__/:::/    /       \:::\    \               \::::/    /   
+           /:::/    /         \::::::::/    /         \:::\    \              /:::/    /    
+          /:::/    /           \::::::/    /           \:::\    \            /:::/    /     
+         /:::/    /             \::::/    /             \:::\    \          /:::/    /      
+        /:::/    /               \::/____/               \:::\____\        /:::/    /       
+        \::/    /                 ~~                      \::/    /        \::/    /        
+         \/____/                                           \/____/          \/____/         
+                                                                                             
 </pre>
 
 ## About Me:
 
-As a passionate Software Integration Engineer, I excel at ensuring seamless interactions among diverse software systems, crafting and implementing innovative integration solutions, and enhancing system efficiency and performance optimization. With a Bachelor of Applied Science (BASc) in Electrical and Computer Engineering from the University of Toronto, I bring a solid foundation in technical and analytical skills, complemented by business acumen and strategic thinking.
+:pencil2: I’m currently working on AudioScapes
 
-My journey includes becoming Laserfiche Gold Certified and leading operational enhancements at Ricoh Canada Inc. By conceptualizing, designing, and developing Laserfiche products for various clients, I've driven significant cost savings and performance improvements. During my internship at Avaya, I implemented a comprehensive Ranorex strategy for Avaya Spaces and Unified Communication solutions, enhancing testing efficiency and product reliability.
+:atm: I’m currently learning Python in Financial Analysis 
 
-At BrainStation, I have further honed my skills in software development, product development, strategic planning, and stakeholder management. My expertise in languages such as HTML, CSS and JavaScript(JS) along with proficiency in front-end frameworks like React, back-end frameworks like Node.js and Express and database frameworks like MySql and MongoDB, has empowered me to deliver creative solutions that align with market demands and enrich user experiences.
+:spiral_notepad: All of my projects are available in my GitHub
 
-I am eager to leverage my skills in product or software development roles, particularly in the GTA or remote settings. Let's connect and explore how I can contribute to your team. Contact me at pratikshashenoy30@gmail.com.
+:thought_balloon: Ask me about React and Express.js 
+
+:raised_hand: I’m looking for help with any projects that help make the world a better place
+
+:speaking_head: I can speak a language that only 0.19% of people in world speak 
+
+:email: How to reach me pratikshashenoy30@gmail.com
+
   
 ## Skill Set:
 
