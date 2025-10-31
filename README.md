@@ -86,7 +86,7 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pshenoy30&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-<!-- Activity Graph -->
+<!-- Activity Graph
 <p align="center">
   <a href="https://github.com/pshenoy30">
     <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=pshenoy30&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
@@ -98,7 +98,7 @@
    <a href="https://github.com/pshenoy30"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=pshenoy30&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
- </p>
+ </p> -->
 
 <br>
 
